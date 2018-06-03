@@ -1,6 +1,3 @@
-nginx-404.conf
-=============
-
 1) Add nginx-404.conf to /etc/fail2ban/filter.d
 
 2) Add following to /etc/fail2ban/jail.conf
